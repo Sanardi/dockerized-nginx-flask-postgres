@@ -25,7 +25,7 @@ looks like on when you first start the app.
 
 
 
-![PostgreSQL Schema](http://url/to/img.png)
+![PostgreSQL Schema](https://github.com/josephhaddad55/dockerized-nginx-flask-postgres/blob/master/misc/PostgreSQL-Schema.png)
 
 
 _Note: Since the database was created through Flask-Migrate you must use Flask-Migrate to continue to alter and update the database moving forward._ 
@@ -51,8 +51,6 @@ Links
 
 * Website: https://www.palletsprojects.com/p/flask/
 * Documentation: http://flask.pocoo.org/docs/
-* License: `BSD <https://github.com/pallets/flask/blob/master/LICENSE>`_
-* Releases: https://pypi.org/project/Flask/
 * Code: https://github.com/pallets/flask
 * Issue tracker: https://github.com/pallets/flask/issues
 * Test status:
