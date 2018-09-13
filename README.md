@@ -34,7 +34,7 @@ _Note: Since the database was created through Flask-Migrate you must use Flask-M
 
 ## Contributing
 
-Feel free to do what you want. Who am I to tell you how and what yo build? Let me know what cool things you end up building with this or we should improve this repository. 
+Feel free to do what you want. Who am I to tell you how and what to build? Let me know what cool things you end up building with this or we should improve this repository. 
 
 ## Authors
 
