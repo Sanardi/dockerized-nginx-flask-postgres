@@ -34,7 +34,7 @@ _Note: Since the database was created through Flask-Migrate you must use Flask-M
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Feel free to do what you want. Who am I to tell you how and what yo build? Let me know what cool things you end up building with this or we should improve this repository. 
 
 ## Authors
 
