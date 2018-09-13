@@ -1,0 +1,5 @@
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=34fC$Q8BdsaXAuq&
+POSTGRES_DB=flaskapp_db
+APP_SECRET_KEY=f96bb602022b917fe87fd5d2dcfe2ba0f6b2975d684adaee
+DATABASE_URL=postgres://postgres:34fC$Q8BdsaXAuq@localhost/5432
