@@ -43,7 +43,7 @@ Feel free to do what you want. Who am I to tell you how and what to build? Let m
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/josephhaddad55/dockerized-nginx-flask-postgres/blob/master/LICENSE) file for details
 
 
 Links
