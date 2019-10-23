@@ -5,6 +5,7 @@
 
 .idea
 __pycache__
+postgres_data
 
 # User-specific stuff
 .idea/**/workspace.xml
